@@ -1,8 +1,3 @@
-# Blockhouse-QR-Trial
-Great clarification. Here is a **concise README draft** that touches on your key points and walks through the process simply:
-
----
-
 # Multi-Level and Cross-Asset Order Flow Imbalance (OFI) Analysis
 
 This script processes high-frequency limit order book data to construct **multi-level, depth-scaled order flow imbalance (OFI) measures** at both the **individual asset** and **cross-asset (market-wide)** levels.
